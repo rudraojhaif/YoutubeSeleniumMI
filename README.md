@@ -38,7 +38,7 @@ Run the script:
 
 ```bash
 
-python youtube\_multiplayer.py
+python main.py
 
 ```
 
